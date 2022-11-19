@@ -1,9 +1,9 @@
 terraform {
   cloud {
-    organization = "omar-egal-terraform"
+    organization = "thiesco-DevOps"
 
     workspaces {
-      name = "terraform-aws-week21-project1"
+      name = "tf_cloud_project"
     }
   }
 }
