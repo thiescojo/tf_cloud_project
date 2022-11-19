@@ -1,3 +1,3 @@
-specific_ip = "Your personal IP address"
+specific_ip = "73.40.5.172/32"
 
-key_name = "luit_key"
+key_name = "qt_devops_keypair"
